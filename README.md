@@ -1,7 +1,7 @@
 # get_location_app
 
 
-A Flutter App that get the current location of the user.
+A Flutter App that get the current location of the user using GeoLocator package to get the location and Flutter BLoC cubit as a state managemnet.
 
 ![alt text](https://github.com/gommido/get_location_app/blob/master/location.gif "Logo Title Text 1")
 
