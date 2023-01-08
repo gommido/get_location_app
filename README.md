@@ -1,8 +1,7 @@
 # get_location_app
 
-A new Flutter project.
 
-## Getting Started
+A Flutter App that get the current location of the user.
 
 ![alt text](https://github.com/gommido/get_location_app/blob/master/location.gif "Logo Title Text 1")
 
